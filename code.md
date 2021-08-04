@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-05-15
-*/
-
 pragma solidity 0.5.16;
 
 interface CRC20 {
